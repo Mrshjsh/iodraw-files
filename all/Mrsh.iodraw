@@ -16,7 +16,7 @@
         <mxCell id="OBG-OTqivqagP1BUq5MG-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#66FFFF;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="165" y="294.71" as="sourcePoint" />
-            <mxPoint x="700" y="300" as="targetPoint" />
+            <mxPoint x="700" y="295" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -26,7 +26,7 @@
         <mxCell id="OBG-OTqivqagP1BUq5MG-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#66FFFF;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="165" y="344.71" as="sourcePoint" />
-            <mxPoint x="465" y="344.71" as="targetPoint" />
+            <mxPoint x="700" y="345" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
