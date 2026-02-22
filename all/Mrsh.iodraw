@@ -23,16 +23,11 @@
         <mxCell id="OBG-OTqivqagP1BUq5MG-5" value="Thread1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBG-OTqivqagP1BUq5MG-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OBG-OTqivqagP1BUq5MG-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#66FFFF;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="165" y="344.71" as="sourcePoint" />
             <mxPoint x="465" y="344.71" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OBG-OTqivqagP1BUq5MG-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OBG-OTqivqagP1BUq5MG-6">
-          <mxGeometry x="0.6114" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OBG-OTqivqagP1BUq5MG-7" value="Thread2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
