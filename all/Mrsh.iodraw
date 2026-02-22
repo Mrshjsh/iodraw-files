@@ -43,10 +43,10 @@
         <mxCell id="OBG-OTqivqagP1BUq5MG-9" value="Thread3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBG-OTqivqagP1BUq5MG-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OBG-OTqivqagP1BUq5MG-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="320" as="sourcePoint" />
-            <mxPoint x="380" y="270" as="targetPoint" />
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
