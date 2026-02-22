@@ -20,8 +20,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBG-OTqivqagP1BUq5MG-5" value="线程以" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="358" width="60" height="30" as="geometry" />
+        <mxCell id="OBG-OTqivqagP1BUq5MG-5" value="Thread1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="358" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
