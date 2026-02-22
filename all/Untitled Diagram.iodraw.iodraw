@@ -4,15 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HPKRxD9RpB0O-LuMEFWV-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="310" as="sourcePoint" />
-            <mxPoint x="370" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="310" />
-              <mxPoint x="320" y="260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="yuBg9M6_Kn1xCk2fXYf4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
