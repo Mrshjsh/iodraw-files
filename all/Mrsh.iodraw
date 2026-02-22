@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OBG-OTqivqagP1BUq5MG-1" value="Redis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="95" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OBG-OTqivqagP1BUq5MG-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -35,13 +35,13 @@
         </mxCell>
         <mxCell id="OBG-OTqivqagP1BUq5MG-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="175" y="394.71" as="sourcePoint" />
-            <mxPoint x="475" y="394.71" as="targetPoint" />
+            <mxPoint x="165" y="394.71" as="sourcePoint" />
+            <mxPoint x="465" y="394.71" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OBG-OTqivqagP1BUq5MG-9" value="Thread1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
