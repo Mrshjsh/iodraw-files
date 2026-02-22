@@ -10,7 +10,7 @@
         <mxCell id="OBG-OTqivqagP1BUq5MG-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="234.71" as="sourcePoint" />
-            <mxPoint x="470" y="234.71" as="targetPoint" />
+            <mxPoint x="690" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OBG-OTqivqagP1BUq5MG-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#66FFFF;" edge="1" parent="1">
@@ -33,7 +33,7 @@
         <mxCell id="OBG-OTqivqagP1BUq5MG-7" value="Thread2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="330" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBG-OTqivqagP1BUq5MG-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OBG-OTqivqagP1BUq5MG-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#66FFFF;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="165" y="394.71" as="sourcePoint" />
             <mxPoint x="465" y="394.71" as="targetPoint" />
