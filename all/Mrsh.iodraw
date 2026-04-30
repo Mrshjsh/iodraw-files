@@ -68,11 +68,11 @@
         <mxCell id="kQB-cwcE079kLdEHh57x-18" value="栈顶(ebp)偏移量可信，栈底(esp)不可信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kQB-cwcE079kLdEHh57x-20" value="&lt;div&gt;char s; // [esp+1Ch] [ebp-64h]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="180" height="30" as="geometry" />
+        <mxCell id="kQB-cwcE079kLdEHh57x-20" value="&lt;div&gt;esp可信，ebp不可信&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="310" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-21" value="char s; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;// [esp+1Ch] [ebp-64h]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="270" width="200" height="30" as="geometry" />
+          <mxGeometry x="110" y="270" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
