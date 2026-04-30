@@ -49,8 +49,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQB-cwcE079kLdEHh57x-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="418" width="50" height="30" as="geometry" />
+        <mxCell id="kQB-cwcE079kLdEHh57x-14" value="s = esp+0x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="418" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
