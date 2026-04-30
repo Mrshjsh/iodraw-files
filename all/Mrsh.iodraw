@@ -44,13 +44,13 @@
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-13" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="490" y="440" as="sourcePoint" />
-            <mxPoint x="560" y="440" as="targetPoint" />
+            <mxPoint x="490" y="450" as="sourcePoint" />
+            <mxPoint x="560" y="450" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-14" value="s = esp+0x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="440" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
