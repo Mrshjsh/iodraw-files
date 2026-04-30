@@ -59,8 +59,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQB-cwcE079kLdEHh57x-16" value="ebp = ebp(addr) - s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="260" width="130" height="30" as="geometry" />
+        <mxCell id="kQB-cwcE079kLdEHh57x-16" value="偏移量= ebp(addr) - s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
