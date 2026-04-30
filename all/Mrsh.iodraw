@@ -49,7 +49,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQB-cwcE079kLdEHh57x-14" value="s = s-esp(偏移) + esp(地址)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kQB-cwcE079kLdEHh57x-14" value="s =&amp;nbsp;esp(地址) +&amp;nbsp;s-esp(偏移)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="440" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
