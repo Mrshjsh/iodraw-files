@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kQB-cwcE079kLdEHh57x-1" value="栈顶（esp&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-2" value="栈底（ebp）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQB-cwcE079kLdEHh57x-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
