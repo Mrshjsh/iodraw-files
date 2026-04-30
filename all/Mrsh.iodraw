@@ -30,7 +30,7 @@
         <mxCell id="kQB-cwcE079kLdEHh57x-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQB-cwcE079kLdEHh57x-10" value="FFFF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kQB-cwcE079kLdEHh57x-10" value="0xFFFF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-14" value="s = esp(偏移) + 0x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
