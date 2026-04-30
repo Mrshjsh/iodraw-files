@@ -63,7 +63,7 @@
           <mxGeometry x="555" y="260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-17" value="当有栈底(esp)和栈顶(ebp)的偏移量时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="115" y="190" width="220" height="30" as="geometry" />
+          <mxGeometry x="115" y="200" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQB-cwcE079kLdEHh57x-18" value="栈顶(ebp)偏移量可信，栈底(esp)不可信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="230" height="30" as="geometry" />
